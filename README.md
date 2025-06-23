@@ -15,6 +15,8 @@ Response Actions: System shutdown, contacting external support, initiating incid
 
 
 Lessons Learned
+
+
 Importance of security awareness training for staff
 Need for robust phishing detection and prevention tools
 Necessity of having a prepared incident response plan
